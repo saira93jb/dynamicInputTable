@@ -69,7 +69,6 @@ if (isset($_POST['submit'])) {
         $('.outerdin').append(newrow);
         
         count++;
-        alert(count);
     });
 
 </script>
